@@ -4,7 +4,13 @@
 </picture>
 
 ## Hi there, I'm Etrrloz 👋
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ettrloz@gmail.com)
+[![Facebook](https://img.shields.io/badge/facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1EaPEHopd9/)
+[![Instagram](https://img.shields.io/badge/instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ettrloz)
+[![X (Twitter)](https://img.shields.io/badge/x_twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ettrloz)
+
 🇮🇩 Based in Sidoarjo, East Java, Indonesia
+<br>
 💡 A Front-End Enthusiast
 
 I'm is a front-end enhusiast passionate about building web experiences.
