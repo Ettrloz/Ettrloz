@@ -16,7 +16,7 @@
 I'm is a front-end enhusiast passionate about building web experiences.
 
 ### Tech Stack
-![Skill Icons](https://skills.syvixor.com/api/icons?i=html,css,sass,javascript,typescript,svelte,reactjs,vuejs,alpinejs,unocss,nextjs,vite,vitest,storybook,nodejs,expressjs,npm,pnpm,turborepo,visualstudiocode&perline=12&radius=46)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=html,css,sass,javascript,typescript,python,ruby,reactjs,svelte,nextjs,reactrouter,tanstack,jekyll,expressjs,nestjs,graphql,redux,zustand,gsap,postcss,unocss,styledcomponents,vite,vitest,prettier,oxc,turborepo,npm,pnpm,visualstudiocode&perline=10&radius=40)
 
 ### Github Stats
 ![Stats](https://profilekit.vercel.app/api/stats?username=Ettrloz&layout=compact&hide_bar=true)
