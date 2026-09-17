@@ -20,4 +20,4 @@ I'm is a front-end enhusiast passionate about building web experiences.
 
 ### Github Stats
 ![Stats](https://profilekit.vercel.app/api/stats?username=Ettrloz&layout=compact&hide_bar=true)
-![Languages](https://profilekit.vercel.app/api/languages?langs_count=10&username=Ettrloz&layout=default&hide_bar=true)
+![Languages](https://profilekit.vercel.app/api/languages?langs_count=10&username=Ettrloz&layout=compact&hide_bar=true)
