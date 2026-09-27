@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://profilekit.vercel.app/api/hero?name=Ettrloz&subtitle=I+like+building+things&bg=particles&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://profilekit.vercel.app/api/hero?name=Ettrloz&subtitle=Full+Stack+Web+Developer&bg=particles&theme=dark" />
   <img src="https://profilekit.vercel.app/api/hero?name=Ettrloz&subtitle=I+like+building+things&bg=particles&theme=light" alt="hero" />
 </picture>
 
@@ -13,10 +13,10 @@
 <br>
 💡 A Front-End Enthusiast
 
-I'm is a front-end enhusiast passionate about building web experiences.
+I am a front-end enthusiast passionate about building web experiences, and I have recently been focusing on learning full-stack web development.
 
-### Tech Stack
-![Skill Icons](https://skills.syvixor.com/api/icons?i=html,css3,sass,javascript,typescript,python,ruby,reactjs,svelte,nextjs,reactrouter,tanstack,jekyll,alpinejs,htmx,expressjs,nestjs,fastapi,graphql,redux,zustand,gsap,postcss,unocss,styledcomponents,vite,vitest,prettier,oxc,turborepo,npm,pnpm,visualstudiocode&perline=10&radius=40)
+### Technologies
+![Skill Icons](https://skills.syvixor.com/api/icons?i=html,css3,sass,javascript,typescript,reactjs,nextjs,reactrouter,tanstack,fastify,nestjs,graphql,redux,gsap,unocss,styledcomponents,prettier,oxc,turborepo,npm,pnpm,visualstudiocode&perline=10&radius=40)
 
 ### Github Stats
 ![Stats](https://profilekit.vercel.app/api/stats?username=Ettrloz&layout=compact&hide_bar=true)
